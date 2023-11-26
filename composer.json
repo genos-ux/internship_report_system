@@ -1,0 +1,7 @@
+{
+    "require": {
+        "tecnickcom/tcpdf": "^6.6",
+        "google/apiclient": "^2.15"
+
+    }
+}
